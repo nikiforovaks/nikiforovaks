@@ -1,16 +1,14 @@
-### Hi there 👋
+### Привет! Меня зовут Никифорова Ксения 👋
 
-<!--
-**nikiforovaks/nikiforovaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Специалист в области DS/ML.
 
-Here are some ideas to get you started:
+- 🔭 В данный момент работаю над проектами мастерской от Яндекса и прохожу тренировки от Яндекса.
+- 🌱 Также углубляю знания в области DS/ML, алгоритмах, статистике и т.д. Работаю над портфолио и накоплением актуального опыта.
+- 🏆 Моя команда заняла первое место на хакатоне от Яндекс.Музыки!
+- 📫 Открыта для предложений!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Технологии и библиотеки:
+Python, PostgreSQL, MySQL, Git, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn, etc.
+
+## Свяжитесь со мной:
+[![Telegram](https://img.shields.io/badge/Telegram-%40ksenia_n1-blue)](https://t.me/ksenia_n1) 
